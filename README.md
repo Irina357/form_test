@@ -7,4 +7,4 @@
 Для запуска проекта на машине разработчика используйте в консоли следующие команды:
 * npm install
 * npm run serve
-#### Посмотреть код данного проекта вы можете на [GitHab](https://https://github.com/Irina357/formAll_test/).
+#### Посмотреть код данного проекта вы можете на [GitHab](https://github.com/Irina357/formAll_test).
